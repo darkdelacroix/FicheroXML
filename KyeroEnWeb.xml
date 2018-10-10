@@ -1,0 +1,4703 @@
+﻿<root>
+<kyero>
+<feed_version>3</feed_version>
+</kyero>
+<property>
+  <id>253</id>
+  <date>2018-03-14 11:20:21</date>
+  <ref>1 330</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+   Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza Juan Carlos I</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/253/flat/resales/spain/plaza-juan-carlos-i/almoradi/</es></url>
+  <desc>
+    <es>Orientación mediodía. 109 m2 construídos. Preinstalación A/A. Bañera de hidromasaje. Nuevo a estrenar. Trastero en terraza. Armarios empotrados. Vistas al parque.</es>
+    <ru>Солнечная светлая сторона.Площадь 109м2.Полностью сделана инсталяция для установки кондиционера.Ванная с гидромасажем.Все новое.Подсобное помещение на террасе.Встроенные шкафы.Панорамный вид на парк.</ru>
+  </desc>
+  <features>
+  <feature>Lift</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/253_foto1_g.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/253_foto2_g.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/253_foto3_g.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/253_foto4_g.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/253_foto6_g.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/253_foto7_g.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>747</id>
+  <date>2015-04-16 10:04:10</date>
+  <ref>1 510</ref>
+  <price>48000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>130</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/747/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>This property is located in the centre of Almoradi, very close to all services and shopping facilities. It has a surface of 130 m2 and benefits of a very spacious lounge, 3 bedrooms, kitchen with utility area and pantry, 1 ample bathroom and balcony.</en>
+    <es>Piso muy amplio en zona céntrica de Almoradí con cocina independiente con galería y despensa, amplio salón-comedor, balcón, ambueblado.Los 2 baños se han convertido en un baño amplio</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/747_foto1_g.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/747_foto2_g.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/747_foto3_g.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/747_foto4_g.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1270</id>
+  <date>2015-11-19 16:36:36</date>
+  <ref>1 616</ref>
+  <price>50000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Flat</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>72</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1270/flat/resales/spain/ambulatorio/almoradi/</es></url>
+  <desc>
+    <en>Brand new flat with a surface of 72 m2. The property has 2 bedrooms, 2 bathrooms, fitted wardrobes, balcony, Video entry phone, communal area with pool, jacuzzi and barbecue.</en>
+    <es>Zona Ambulatorio. Piso de 72 m2 útiles de nueva construcción. La vivienda dispone de 2 dormitorios, 2 baños, balcón, armarios empotrados y forrados, video portero, zonas comunes con piscina, jacuzzi y barbacoa.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Barbecue area</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/51405d3f4034c_g.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/51405d4fe0698_g.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/51405d791bdc7_g.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/51405d7952d4c_g.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/51405d797cbb7_g.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/51405d79a5cdf_g.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/51405d9850a50_g.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/51405d987b76d_g.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/51405d98a8599_g.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/51405d98da15d_g.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1408</id>
+  <date>2014-06-03 18:07:53</date>
+  <ref>2 551</ref>
+  <price>132000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Pascual Andreu</location_detail>
+  <beds>4</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>150</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1408/terraced-house/resales/spain/colegio-pascual-andreu/almoradi/</es></url>
+  <desc>
+    <en>Brand new townhouse with a surface of 150 sqm. The property offers 4 bedrooms, 2 bathrooms, kitchen with utility area, ample lounge, terraces, double glazing, pre-installation for air conditioning, fitted wardrobes and a spacious garage for several cars in the basement. It is located in a residential area, close to all services.</en>
+    <es>Bungalow adosado nuevo a estrenar. Dispone d 4 dormitorios, 2 baños, terraza, patio interior, cocina independiente, preinstalación de aire acondicionado, trastero y cochera cerrada para dos vehículos</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Brand new</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/5294c7be69f99_g.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/5294c7caab6b7_g.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/5294c7e45c265_g.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/5294c7e48848c_g.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/5294c7e4bf506_g.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/5294c7e6cdb42_g.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/5294c80155cf0_g.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/5294c8018fe50_g.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/5294c802018b6_g.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/5294c802552b0_g.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1409</id>
+  <date>2014-06-03 18:07:53</date>
+  <ref>2 550</ref>
+  <price>126000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Pascual Andreu</location_detail>
+  <beds>4</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>150</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1409/terraced-house/resales/spain/colegio-pascual-andreu/almoradi/</es></url>
+  <desc>
+    <en>Brand new townhouse with a surface of 150 sqm. The property offers 4 bedrooms, 2 bathrooms, kitchen with utility area, ample lounge, terraces, double glazing, pre-installation for air conditioning, fitted wardrobes and a spacious garage for several cars in the basement. It is located in a residential area, close to all services.</en>
+    <es>Bungalow adosado nuevo a estrenar. Dispone d 4 dormitorios, 2 baños, terraza, patio interior, cocina independiente, preinstalación de aire acondicionado, trastero y cochera cerrada para dos vehículos.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Brand new</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/5294ca01cca36_g.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/5294ca0d16724_g.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/5294ca23e78c3_g.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/5294ca2430cff_g.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/5294ca247b545_g.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/5294ca3e3da58_g.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/5294ca3eb87a8_g.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/5294ca3f6260a_g.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/5294ca4016242_g.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/5294ca23934e4_g.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1424</id>
+  <date>2017-10-25 10:08:08</date>
+  <ref>4 544</ref>
+  <price>86000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Daya Nueva</town>
+  <province>Alicante</province>
+  <location_detail>Parque</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>70</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1424/terraced-house/resales/spain/parque/daya-nueva/</es></url>
+  <desc>
+    <en>This beautiful property is situated in Daya Nueva in a quite area, but close to all facilities. This detached property has a surface of 70 m2 living area and a plot of 110 m2. It consists of 2 double bedrooms, 1 bathroom, lounge with fire place and an open plan kitchen. It also benefits of a large sunroof terrace and a communal pool. It is a perfect holiday home and also suitable as a permanent residence.</en>
+    <es>Bungalow de 70 m2 con una parcela de 110 m2. La vivienda dispone de 2 dormitorios dobles, salón con chimenea, cocina y baño. Se encuentra en un pequeño complejo de solo 10 viviendas con piscina comunitaria. A parte de una amplia terraza en la planta baja, también ofrece un amplio solarium de 70 m2 en la terraza cubierta. El inmueble se encuentra en una buena zona, cerca de parques y a pocos metros del centro de Daya Nueva con todos sus servicios.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Solarium</feature>
+    <feature>Furnished</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Open fireplace in the lounge</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/52d96e26c0e7c_g.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/52d96e40114d4_g.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/52d96e5d3017f_g.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/52d96e5d6827b_g.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/52d96e5da1566_g.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/52d96e5dda3a5_g.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/52d96e873d38d_g.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/52d96e876e16b_g.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/52d96e87a9be8_g.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/52d96e87e710b_g.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1443</id>
+  <date>2018-09-04 11:48:54</date>
+  <ref>1 595</ref>
+  <price>55000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Almoradí</location_detail>
+  <beds>1</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>40</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1443/apartment/resales/spain/almoradi/almoradi/</es></url>
+  <desc>
+    <en>1 bedroom apartment to let in Almoradí. It is completely furnished and equipped whit white goods. The building offers a communal pool and it is situated in a central location.</en>
+    <es>Apartamento de 40 m2 de 1 dormitorio completamente amueblado y equipado con electrodomésticos.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Furnished</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/102_3628.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/102_3627.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/102_3625.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/102_3633.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/102_3641.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1479</id>
+  <date>2018-08-30 11:04:37</date>
+  <ref>2 559</ref>
+  <price>126000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Almoradí</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>200</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1479/terraced-house/resales/spain/almoradi/almoradi/</es></url>
+  <desc>
+    <en>This ample townhouse has a surface of 200 m2 and offers spacious premises. It consists of 3 bedrooms, 2 full bathrooms, 1 cloak room, lounge with fire place, ample kitchen with pantry and indoor patio and a garage with sufficient space for two cars. It also offers air conditioning, fitted wardrobes and 2 balconies.</en>
+    <es>Amplio Bungalow adosado con cuna superficie de 200 m2 útiles. La vivienda está distribuida en 3 dormitorios, 2 baños completos, 1 aseo, salón, cocina amplia con despensa y patio interior y cochera para dos vehículos. Además dispone de chimenea de leña en el salón, aire acondicionado y está orientado a mediodía.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Open fireplace in the lounge</feature>
+    <feature>Pantry</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/P4301949.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/P4301950.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/P4301953copia.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/P4301957.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/P4301958.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/P4301960.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/P4301961.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/P4301962.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/P4301963.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/P4301964.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1555</id>
+  <date>2017-03-07 17:31:16</date>
+  <ref>3 522</ref>
+  <price>158400</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Plot
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>0</beds>
+  <baths>0</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>0</built>
+    <plot>288</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1555/plot/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Plot with a surface of 228 sqm in the centre of Almoradi for construction of a three storey building.</en>
+    <es>Solar urbano situado en el centro de Almoradi. Posible construcción de vivienda o edificio de planta baja + 3 plantas</es>
+  </desc>
+  <features><feature>none</feature></features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/P9122334.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/P9122332.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/P9122333.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1573</id>
+  <date>2018-09-05 16:15:14</date>
+  <ref>3 523</ref>
+  <price>125000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Plot
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio</location_detail>
+  <beds>0</beds>
+  <baths>0</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>0</built>
+    <plot>700</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1573/plot/resales/spain/colegio/almoradi/</es></url>
+  <desc>
+    <en>Urban plot with a surface of 700 m2. It allows the construction of a family home a 3 storey-building.</en>
+    <es>Solar urbano de 700 m2 situado en zona de colegios y parques para la construcción de casa independiente o planta baja + 3.</es>
+  </desc>
+  <features>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/PA242434.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/PA242435_1.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/PA242436_1.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/PA242437_1.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1605</id>
+  <date>2015-11-23 12:40:03</date>
+  <ref>1 725</ref>
+  <price>45000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>80</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1605/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Flat in the centre of Almoradi. The property is located on the first floor and offers three rooms, kitchen, bathroom and indoor patio.</en>
+    <es>Piso entresuelo en el centro de Almoradi. El inmueble dispone de 3 habitaciones, baño, cocina y patio interior.</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG20150226WA0000.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG20150226WA0001.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG20150226WA0002.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG20150226WA0003.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_0323.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_0324.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_0325.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_0326.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_0327.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_0328.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1606</id>
+  <date>2018-05-03 10:11:17</date>
+  <ref>1 695</ref>
+  <price>120000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Penthouse
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>El Bañet</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1606/penthouse/resales/spain/el-banet/almoradi/</es></url>
+  <desc>
+    <en>Penthouse with a surface of 90 m2 and a terrace of 45 m2 offering a barbecue area. The property consists of 2 bedrooms, 2 bathrooms, kitchen with utility area, ample lounge. It benefits of wooden floors, air conditioning, fitted wardrobes, whirlpool bath and parking space in the basement.</en>
+    <es>Ático de 90 m2 con una terraza de 45 m2 en planta con zona de barbacoa. La vivienda dispone de 2 dormitorios, 2 baños, cocina independiente con galería, amplio salón, instalación completa de aire acondicionado, bañera de hidromasaje, suelo de tarima, regulador de iluminación y plaza de garaje en planta sótano.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Independent kitchen</feature>
+    <feature>South facing</feature>
+    <feature>Barbecue area</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0005.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0011.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0012.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0014.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0006.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0002.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0000.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0001.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0003.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG20150305WA0004.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1628</id>
+  <date>2017-05-26 11:11:55</date>
+  <ref>1 702</ref>
+  <price>47000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Almoradí</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>65</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1628/flat/resales/spain/almoradi/almoradi/</es></url>
+  <desc>
+    <en>Apartment with a surface of 65 m2 consiting of 2 bedrooms with build in wardrobes, ample family bathroom, lounge with open plan kitchen, utility area and indoor patio. The property benefits of an ample balcony.</en>
+    <es>Vivienda nueva a estrenar de 2 dormitorios, salón con cocina, patio interior y un amplio balcón. El inmueble dispone de armarios empotrados y galería.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>South facing</feature>
+    <feature>Brand new</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/P5042806.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/P5042802.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/P5042798.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/P5042800.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/P5042801.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/P5042803.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/P5042804.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/P5042805.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/P5042807.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/P5042809.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1634</id>
+  <date>2015-05-18 17:16:50</date>
+  <ref>1 705</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza Juan Carlos I</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>95</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1634/flat/resales/spain/plaza-juan-carlos-i/almoradi/</es></url>
+  <desc>
+    <en>Spacious flat with a surface of 95 m2 consisting of 3 bedrooms, 2 bathrooms, lounge with fire place, kitchen with utility area and balcony. It offers a storage room on the roof, fitted wardrobes and pre-installation for air conditioning.</en>
+    <es>Vivienda de 95 m2 útiles orientado a mediodía junto a parque y colegios y cerca de todos los servicios. El inmueble dispone de 3 dormitorios, 2 baños, salón, cocina independiente con galería, salón con chimenea de leña y balcón. Ofrece un trastero en la terraza cubierta y de ascensor.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Open fireplace in the lounge</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_0010.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_0011.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_0013.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_0014.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_0017.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_0020.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_0022.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_0023.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_0024.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_0025.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1644</id>
+  <date>2017-10-16 19:25:49</date>
+  <ref>2 584</ref>
+  <price>115000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio y ambulatorio</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>111</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1644/terraced-house/resales/spain/colegio-y-ambulatorio/almoradi/</es></url>
+  <desc>
+    <en>Townhouse with a surface of 130 m2 consisting of 3 bedrooms, 2 bathrooms, independent modern kitchen wit utility area, lounge and two ample terraces on the first floor, one of them glazed. All bedrooms offer fitted wardrobes and wooden floors.</en>
+    <es>Bungalow adosado con una superficie de 130 m2 haciendo esquina. La vivienda dispone de 3 dormitorios, 2 baños, cocina moderna e independiente con galería, 2 amplias terrazas en primera planta, una de ellas acristalada y con estufa de leña, preinstalación de aire acondicionado por conducto y trastero.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Security grills</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0012.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0006.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0007.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0008.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0009.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0010.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0011.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0013.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0014.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG20171016WA0015.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1647</id>
+  <date>2015-11-26 09:11:47</date>
+  <ref>1 349</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1647/flat/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>Ample flat with a surface of 90 m2 consisting of 3 bedrooms, 2 bathrooms, separate kitchen, lounge and balcony. It benefits of a parking space and storage room in the basement of the building.</en>
+    <es>Piso de 3 dormitorios, 2 baños, cocina independiente, salón y balcón. La vivienda tiene una superficie útil de 90 m2 y dispone de plaza de garaje y trastero.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/PICT2423.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/saln.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/armario.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/bao.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/Patio.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/PICT2425.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1697</id>
+  <date>2015-11-17 19:31:07</date>
+  <ref>1 723</ref>
+  <price>75000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>110</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1697/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Completely refurbished flat locted in the town centre. The property has a surface of 110 m2 and offers 3 bedrooms, 1 full bathroom, 1 cloak room, kitchen with utility area and patio, lounge with balcony. It offers a new kitchen and wooden floors</en>
+    <es>Piso totalmente reformado en el centro de Almoradi. La vivienda dispone de 3 dormitorios, 1 baño, 1 aseo, cocina independiente con galería y patio interior, salón y balcón. Dispone de cocina nueva y piso de parquet.</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_2578.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_2586.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_2582.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_2580.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_2583copia.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_2584.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_2579.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_2581.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_2587.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1702</id>
+  <date>2015-12-18 10:45:48</date>
+  <ref>1 726</ref>
+  <price>60000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Manuel de Torres</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1702/flat/resales/spain/manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>Flat with a surface of 90 m2 conisting of 3 bedrooms, 2 bathrooms, kitchen with utiliy area, lounge and ample balcony with views over a park. It slo benefits of a communal pool, lift, fitted wardrobes, pre-instllation for air conditioning and a storage room.</en>
+    <es>Piso de 3 dormitorios en edificio con piscina comunitaria y ascensor. El inmueble dispone de 2 baños, cocina amueblada y equipada, galería, salón y amplio balcón con vistas a un parque. También ofrece pre-instalación de aire acondicionado, armarios empotrados y trastero.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Storage</feature>
+    <feature>Pre-installation of air conditioning</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_2724.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_2723.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_2725.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_2720.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_2722.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_2726.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_2731.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_2732.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_2733.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_2736.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1756</id>
+  <date>2016-04-19 10:18:30</date>
+  <ref>2 607</ref>
+  <price>135000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+   Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Pascal Andreu</location_detail>
+  <beds>4</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>160</built>
+    <plot>120</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1756/terraced-house/resales/spain/colegio-pascal-andreu/almoradi/</es></url>
+  <desc>
+    <en>New and spacious townhouse with a surface of 160 m2. The property offers 4 ample bedrooms, 2 bathrooms, ample lounge, kitchen with utility area, terraces on the ground floor and on the first floor, garage with sufficient space for two cars and storage. The property also benefits of pre-installation for air conditioning and fitted wardrobes. It is located on a corner plot and the property is south-facing.</en>
+    <es>Bungalow nuevo a estrenar de 4 dormitorios, 2 baños, amplio salón, cocina con galería y patio interior, terrazas en planta baja y primera planta, cochera en planta sótano con espacio para dos vehículos y trastero. La vivienda dispone de preinstalación de aire acondicionado, armarios empotrados y estancias muy amplias. El Bungalow hace esquina y está orientado a mediodía.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Security grills</feature>
+    <feature>Brand new</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_3914.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_3915.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_3916.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_3917.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_3918.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_3920.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_3924.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_3926.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_3927.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_3928.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1761</id>
+  <date>2016-05-03 10:28:53</date>
+  <ref>3 542</ref>
+  <price>125000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Plot
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>El Bañet</location_detail>
+  <beds>0</beds>
+  <baths>0</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>0</built>
+    <plot>610</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1761/plot/resales/spain/el-banet/almoradi/</es></url>
+  <desc>
+    <en>Plot with a surface of 610 m2 for the construction of a detached villa, situated in the residential area known as "El Bañet" in Almoradi.</en>
+    <es>Solar de 610 m2 para edificación de casa individual situado en zona residencial "El Bañet" en Almoradi</es>
+  </desc>
+  <features><feature>none</feature></features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_4092.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_4093.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_4099.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1787</id>
+  <date>2018-04-19 13:09:51</date>
+  <ref>1 755</ref>
+  <price>56000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>C/ Antonio Sequeros</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>68</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1787/flat/resales/spain/c-antonio-sequeros/almoradi/</es></url>
+  <desc>
+    <en>Apartment on the second floor consisting of 2 bedrooms, 2 bathrooms, lounge, separate kitchen and balcony with views over the communal pool. The apartment offers a surface of 92m2 constructed area, fitted wardrobe.</en>
+    <es>Piso en segunda planta con una superficie de 92 m2 construidos y 68 m2 útiles, distribuidos en dos dormitorios, dos baños, salón, cocina independiente y balcón con vistas a la piscina comunitaria.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Independent kitchen</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02504.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02496.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02499.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02500.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02502.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02503.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02505.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02507.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02497.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02509.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1818</id>
+  <date>2017-01-31 19:28:20</date>
+  <ref>2 619</ref>
+  <price>87000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Manuel de Torres</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>123</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1818/house/resales/spain/manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>Property consisting of a house at ground level with a surface of 123 m2 living area divided into 3 bedrooms, 2 bathrooms, kitchen with ample indoor patio with barbecue area, roof terrace and closed garage.</en>
+    <es>Casa en planta con una superficie de 123 m2 de casa y 134 m2 de suelo. La casa dispone de 3 dormitorios, 2 baños, cocina con galería, salón y un patio interior con zona de barbacoa, terraza y solarium. También ofrece una cochera cerrada.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Barbecue area</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_6636.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_6637.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_6638.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_6639.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_6640.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1829</id>
+  <date>2017-04-18 17:37:54</date>
+  <ref>1 779</ref>
+  <price>40000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>104</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1829/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Spacious 3 bedroom apartment located close to the church and town centre. The property has a surface of 104 m2 and offers 3 ample bedrooms, 2 bathroom, kitchen with utility area and a spacious lounge with access to a balcony.</en>
+    <es>Piso en primera planta con una superficie de 104 m2 distribuido en tres amplios dormitorios, 2 baños, espacioso salón con balcón y cocina con galería. La vivienda se vende amueblado y equipado con electrodomésticos.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_6888.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_6890.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_6886.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_6891.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_6883.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_6882.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1830</id>
+  <date>2017-09-06 18:50:58</date>
+  <ref>2 622</ref>
+  <price>120000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Manuel de Torres</location_detail>
+  <beds>4</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>160</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1830/terraced-house/resales/spain/manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>Town house with a living area of 160 m2. It offers on the first floor a very large lounge with wood burning fireplace and large windows to the outside, kitchen with dining room, patio and gallery, a toilet and one bedroom and large garage. The second floor offers 3 double bedrooms and a family bathroom. The property is completely renovated and has terraces on the second floor by access from the bedrooms.</en>
+    <es>Vivienda de tipo Bungalow con una superficie de 160 m2. Dispone en la primera planta de un salón muy amplio con chimenea de leña y ventanas al exterior, cocina con salita, patio y galería, un aseo y dormitorio y amplia cochera en planta. La segunda planta ofrece 3 dormitorios dobles y un baño. La vivienda está completamente reformada y dispone de terrazas en segunda planta por acceso de dormitorios. Todas las estancias dan al exterior.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Security grills</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_6935.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_6937.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_6939.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_6942.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_6944.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_6946.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_6947.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_6950.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_6951.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_6952.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1859</id>
+  <date>2017-03-08 19:26:39</date>
+  <ref>2 626</ref>
+  <price>50000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Cruz de Galindo</location_detail>
+  <beds>3</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>62</built>
+    <plot>100</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1859/house/resales/spain/cruz-de-galindo/almoradi/</es></url>
+  <desc>
+    <en>This is a three bedroom house with a living area of 60 m2, offering 3 ample bedrooms, 1 bathroom, lounge and kitchen. It has a sun terrace on the roof and a court yard of 100 m2.</en>
+    <es>Casa en planta de 3 amplios dormitorios, 1 baño, cocina independiente y salón. Dispone de terraza en cubierta amplio patio de 100 m2</es>
+  </desc>
+  <features>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Open fireplace in the lounge</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_6728.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_6729.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_6731.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_6732.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_6733.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_6734.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_6736.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_6737.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_6738.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_6739.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1867</id>
+  <date>2018-05-18 13:16:07</date>
+  <ref>1 792</ref>
+  <price>60000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Manuel de Torres</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>80</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1867/flat/resales/spain/colegio-manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>This is a modern 2 bedroom apartment with a surface of 80 m2 consisting of 2 double bedrooms, 2 full bathrooms, kitchen with utility are and an ample lounge with access to a balcony. The property also offers marble floor, pre-installation for air conditioning, fitted wardrobes, double glazing, communal pool and a private sun terrace and storage on the roof terrace.</en>
+    <es>Piso en última planta con una superficie de 80 m2, 2 dormitorios con armarios empotrados, 2 baños completos, cocina con galería y amplio salón luminoso con terraza. El inmueble está parcialmente amueblado y está equipado con electrodomésticos. Además ofrece suelo de mármol, preinstalación de aire acondicionado, piscina comunitaria y trastero y solarium privado en la terraza cubierta.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Solarium</feature>
+    <feature>Storage</feature>
+    <feature>Pre-installation of air conditioning</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_7638.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_7639.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_7640.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_7642.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_7643.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_7645.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_7646.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_7647.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_7655.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_7656.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1874</id>
+  <date>2017-05-04 19:27:16</date>
+  <ref>1 798</ref>
+  <price>108000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>El Bañet</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>92</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1874/flat/resales/spain/el-banet/almoradi/</es></url>
+  <desc>
+    <en>First floor apartment in building with a lift in the "Bañet" area in Almoradi. The property is located in a building of only 6 apartments (2 on each floor) and has a living area of 92 m2 distributed in 3 bedrooms, 2 bathrooms (one with shower and the other with bathtub), ample kitchen, spacious living room and interior patio. It is a nice property with modern finishes and with parquet flooring in all rooms. It also offers air conditioning (hot and cold), a small laundry room in the kitchen, city gas installation, fitted wardrobes, spacious balcony and storage. The kitchen is equipped with all electric appliances. South facing property.</en>
+    <es>Piso en primera planta en edificio con ascensor en la zona del "Bañet" in Almoradi. La vivienda está ubicado en un edificio de solo 6 vecinos (2 por planta) y tiene una superficie útil de 92 m2 distribuido en 3 dormitorios, 2 baños (uno con plato de ducha y el otro con bañera), cocina, salón y patio interior. Se trata de un bonito inmueble con acabados modernos y con suelo de parquet in todas las estancias. Además ofrece aire acondicionado por conducto de frío y calor, un pequeño lavadero en la cocina, instalación de gas ciudad, armarios empotrados, espacioso balcón y trastero. La cocina está equipada con todos los electrodomésticos. Orientado a mediodía.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_8017_1.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_8014.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_8018.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_8021.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_8035_1.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_8036.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_8027.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_8025.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_8026.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_8030.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1875</id>
+  <date>2017-09-14 10:49:17</date>
+  <ref>4 719</ref>
+  <price>54000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Benejuzar</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>82</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1875/house/resales/spain/centro/benejuzar/</es></url>
+  <desc>
+    <en>This is a two-storey town house located in Benjuzár close to all services. The property has a surface of 82 m2 and offers on the ground floor a spacious lounge, ample kitchen, bathroom and a utility area. The three bedrooms are located on the first floor. From the utility area you have access to the roof terrace of the building.</en>
+    <es>Casa adosada situado en el municipio de Benejuzár cerca de todos los servicios. La vivienda dispone en la planta baja de un amplio salón, cocina independiente con patio interior y un baño. En la segunda planta ofrece tres dormitorios dobles. Desde el patio interior tiene acceso a la terraza cubierta de la casa. La casa requiere actualización.</es>
+  </desc>
+  <features>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00029.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC00015.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC00018.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC00014.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC00012.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC00010.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC00017.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC00019.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC00024.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC00025.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1876</id>
+  <date>2017-05-05 19:00:07</date>
+  <ref>1 660</ref>
+  <price>54750</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Avenida Orihuela</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>74</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1876/apartment/resales/spain/avenida-orihuela/almoradi/</es></url>
+  <desc>
+    <en>This is a nicely furnished and completely equipped ground floor apartment that offers two bedrooms with fitted wardrobes, 1 bathroom, fully equipped kitchen with all electric appliances, spacious living room with dining area, balcony and a covered utility area. The building offers a lift and a beautiful pool area with a sun deck. The property also offers ceiling fans and storage in the basement of the building. It is located close to all services, such as supermarkets, hospital, schools, bars and restaurants.</en>
+    <es>Vivienda en planta baja con una superficie de 74 m2. El apartamento dispone de 2 dormitorios con armarios empotrados, salón-comedor, cocina, balcón y un patio interior cubierto. Se vende completamente amueblado y equipado con electrodomésticos. El edificio ofrece ascensor y una amplia zona comunitaria con piscina. Además incluye un trastero en la planta sótano del edificio.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>Security grills</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00034.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC00038.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC00039.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC00041.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC00042.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC00044.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC00049.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC00051.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC00055.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC00057.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1884</id>
+  <date>2018-06-22 17:53:14</date>
+  <ref>3 548</ref>
+  <price>119000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Plot
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Loma de la Juliana</location_detail>
+  <beds>0</beds>
+  <baths>0</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>1040</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1884/plot/resales/spain/loma-de-la-juliana/almoradi/</es></url>
+  <desc>
+    <en>Building plot with a surface of 999 sqm, located in Almoradi in the residential area "Loma de la Juliana", close to the prestigious golf course "La Finca".</en>
+    <es>Parcela urbana edificable con una superficie de 999 m2 en zona residencial de "La Loma de la Juliana", cerca del prestigiosos campo de golf "La Finca".</es>
+  </desc>
+  <features><feature>none</feature></features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00350.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC00351.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC00352.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC_0029.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC_0032_1.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1885</id>
+  <date>2017-06-07 18:07:21</date>
+  <ref>4 718</ref>
+  <price>59950</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Rafal</town>
+  <province>Alicante</province>
+  <location_detail>Rafal</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>65</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1885/flat/resales/spain/rafal/rafal/</es></url>
+  <desc>
+    <en>This is a beautiful apartment located in Rafal close to all services. It offers 2 bedrooms with fitted wardrobes, an ample and bright lounge, separate kitchen and a one bathroom. From the lounge it gives access to a large private sun terrace and the property benefits of air conditioning, communal pool and it comes completely furnished and equipped.</en>
+    <es>Apartamento de 2 dormitorios, 1 baño, cocina independiente con una amplia terraza de 20 m2. La vivienda está ubicada en el municipio de Rafal y tiene una superficie de 65 m2. Se vende completamente amueblado y equipado con aire acondicionado y electrodomésticos. Además dispone de armarios empotrados y piscina comunitaria.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00476.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC00463.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC00465.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC00467.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC00469.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC00471.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC00473.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC00478.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC00480.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC00484.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1887</id>
+  <date>2017-06-20 17:29:30</date>
+  <ref>2 630</ref>
+  <price>165000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>4</beds>
+  <baths>4</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>218</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1887/terraced-house/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>This is a very spacious townhouse with views over a park located close to all services. The property has a surface of 218 m2 consisting of 4 bedrooms, 4 bathrooms, ample kitchen with utility area and lounge with a fire place. A garage of 75 m2 is located on the ground floor, together with a storage and bathroom. The property benefits of air conditioning throughout the house.</en>
+    <es>Amplio Bungalow con vistas al parque con una superficie de 218 m2 distribuida en 4 dormitorios, 4 baños, amplia cocina con patio y lavadero, salón con chimenea de leña y grandes ventanales. Además dispone de una cochera en la planta baja con trastero y aseo, aire acondicionado por toda la casa y armarios empotrados.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Open fireplace in the lounge</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00543.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC00540.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC00535.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC00537.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC00544.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC00548.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC00549.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC00550.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC00554.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC00555.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1888</id>
+  <date>2017-07-05 18:44:59</date>
+  <ref>2 632</ref>
+  <price>150000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>180</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1888/house/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>This is an ample town house located in the centre of Almoradi, close to the town square and town hall. The property has a total surface of 180 m2 and offers on the ground floor a commercial unit/garage of 80 m2. The living area is located on the first floor and offers 3 bedrooms, lounge, 2 bathrooms and kitchen. On the roof it offers an ample terrace. South-facing.</en>
+    <es>Amplia vivienda situada en el centro de Almoradi, cerca de la plaza de ayuntamiento. La vivienda dispone en planta baja un local comercial con persiana de 80 m2. Toda la vivienda se encuentra en la planta primera y tiene una superficie de 100 m2 distribuida en 3 dormitorio, 2 baños, salón y cocina. Además dispone de una amplia terraza en la cubierta de la vivienda. Orientado a mediodía.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_8074.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_8078.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_8079.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_8080.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_8082.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_8083.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_8084.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_8085.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_8086.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_8087.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1889</id>
+  <date>2017-07-05 19:15:14</date>
+  <ref>2 631</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Town House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>89</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1889/house/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Townhouse located in Almoradi with a total surface of 89 m2 offering several rooms. The property needs to be refurbished.</en>
+    <es>Vivienda en planta con una superficie de 89 m2 situado en Avenida Manuel de Torres con una superficie de 90 m2 de suelo, dividido en varias dependencias para reformar.</es>
+  </desc>
+  <features><feature>none</feature></features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00889.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC00890.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC00894.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC00895.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC00900.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1894</id>
+  <date>2018-08-22 10:41:24</date>
+  <ref>1 811</ref>
+  <price>85000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>110</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1894/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>This is a 3 bedroom flat located in the centre of Almoradi close to all services. It offers 3 double bedrooms, 2 bathrooms, kitchen with utility are and patio, lounge with a fire place and balcony. The property has a surface of 110 m2 and is part of a building with just 3 living units. It also offers fitted wardrobes and it is south facing.</en>
+    <es>Piso de 110 m2 situado en el centro de Almoradi. La vivienda dispone de 3 dormitorios, 2 baños, amplia cocina con galería y patio interior y salón con chimenea de leña. El edificio está compuesto de solo tres viviendas una vivienda por planta. Además dispone de armarios empotrados y está orientado al mediodía.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Open fireplace in the lounge</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC00998.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01004.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01005.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01007.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01010.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01011.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC01012.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC01014.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1897</id>
+  <date>2018-06-01 12:06:44</date>
+  <ref>1 812</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Manuel de Torres</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>88</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1897/apartment/resales/spain/manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>Top floor apartment with a large private solarium. The property has a living area of 88 m2 and offers 2 bedrooms, 2 bathrooms, fully equipped kitchen, lounge and balcony. It also offers air conditioning, fitted wardrobes, storage room and a garage space. The building has a lift and spacious communal areas with swimming pool. The private terrace has an area of 40 m2 and offers beautiful views over the city and mountains.</en>
+    <es>Vivienda en última planta con amplio solarium privado. La vivienda tiene una superficie de 88 m2 y dispone de 2 dormitorios, 2 baños completos, cocina equipada, salón y balcón. Además ofrece aire acondicionado, armarios empotrados, trastero y plaza de garaje. El edificio tiene ascensor y amplias zonas comunes con piscina. La terraza privada tiene una superficie de 40 m2 y ofrece bonitas vistas a la ciudad y montañas.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Solarium</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC01183.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01167.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01173.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01175.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01176.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01177.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC01178.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC01180.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC01188.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC01189.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1903</id>
+  <date>2017-11-02 17:52:55</date>
+  <ref>2 633</ref>
+  <price>99900</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Town House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Puente de Don Pedro</location_detail>
+  <beds>5</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>238</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1903/house/resales/spain/puente-de-don-pedro/almoradi/</es></url>
+  <desc>
+    <en>This is a spacious house with a surface of 238 m2 located at Partida de Don Pedro in Almoradi. It is just a short drive into town and the property offers 5 bedrooms, 2 bathrooms, lounge, kitchen with a courtyard and a very spacious warehouse attached to the property.</en>
+    <es>Casa con almacén situada en la partida de Don Pedro en Almoradi. La vivienda dispone de 5 dormitorios, 2 baños, cocina independiente con patio interior, terraza cubierta y terraza de 15 m2. Además tiene un amplio almacén con acceso a la vivienda.</es>
+  </desc>
+  <features>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC01540.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01544.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01547.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01548.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01550.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01551.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC01552.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC01553.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC01542.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1905</id>
+  <date>2017-11-03 17:45:22</date>
+  <ref>1 819</ref>
+  <price>60000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza de la Libertad</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1905/flat/resales/spain/plaza-de-la-libertad/almoradi/</es></url>
+  <desc>
+    <en>This is a three bedroom apartment in perfect conditions located in Almoradi close to all services. The property offers 3 bedrooms, kitchen with utility area, lounge, balcony and a storage room. The building benefits of a communal pool area, lifts and a handicapped accessible entrance. It also offers air conditioning and fitted wardrobes.</en>
+    <es>Amplia vivienda de 3 dormitorios en perfecto estado con 2 baños en edificio con ascensor y piscina comunitaria. La vivienda ofrece cocina independiente con galería, balcón amplio salón y trastero. Además dispone de trastero, aire acondicionado y balcón. El edificio cuenta con entrada adaptada para minusvalidos.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC01584.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01589.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01591.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01586.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01590.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01593.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC01594.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC01595.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC01596.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC01597.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1911</id>
+  <date>2018-05-07 09:40:05</date>
+  <ref>1 823</ref>
+  <price>59000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Manuel de Torres</location_detail>
+  <beds>4</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>116</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1911/flat/resales/spain/manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>Spacious and totally reformed property with a surface of 116 m2. The flat offers 4 bedrooms, 2 bathrooms, kitchen with utility area, lounge and balcony. It comes completely furnished and equipped with electric appliances. It also offers air conditioning and a storage room. The property is located on the first floor in a building with lift and just 6 living units.</en>
+    <es>Amplia vivienda con una superficie de 116 m2 compuesto de 4 dormitorios, 2 baños, cocina independiente con patio interior, salón y balcón. La vivienda está completamente reformado y se vende amueblado y equipado con electrodomésticos. Además dispone de aire acondicionado y trastero. Está ubicado en la primera planta en un edifico con ascensor y de solo 6 vecinos.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/salonco7.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/saloncom1.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMAG0056.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMAG0055.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/BAO11.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/BAO12.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/BAO14.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/BAO21.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/BAO22.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/dormpricipal1.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1913</id>
+  <date>2017-12-18 18:05:51</date>
+  <ref>1 824</ref>
+  <price>50000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>89</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1913/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Apartment located in Almoradi. It offers 3 bedrooms, 2 bathrooms, ample kitchen with utility area, lounge and balcony. The property is located in Almoradi close to all services.</en>
+    <es>Vivienda de 3 dormitorios, 2 baños, situado en segunda planta sin ascensor. Dispone de una cocina amplia con galería y salón con balcón. Situado en la calle Mayor de Almoradi.</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC01804.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01796.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01794.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01793.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01795.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01799.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC01800.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC01802.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC01803.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC01805.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1915</id>
+  <date>2018-09-12 09:21:03</date>
+  <ref>1 825</ref>
+  <price>39000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza de la Libertad</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>68</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1915/flat/resales/spain/plaza-de-la-libertad/almoradi/</es></url>
+  <desc>
+    <en>Two-bedroom apartment with a surface of 68 m2. The property offers two ample bedrooms, kitchen with utiliy area and a spacious lounge. The apartment is south facing and is located close to all services.</en>
+    <es>Piso en buen estado con una superficie de 68 m2. La vivienda dispone de 2 dormitorios, 1 baño, cocina independiente con galería y amplio salón. Orientado al mediodía en zona de plaza de la Libertad.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC01631.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01641.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01635.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01634.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01636.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01637.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1920</id>
+  <date>2018-08-09 11:34:00</date>
+  <ref>1 830</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>0</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1920/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>This is a completely refurbished apartment located in the center of Almoradi. The property has a surface of 90 m2 and consists of 2 double bedrooms, 2 bathrooms, lounge with access to a south-facing balcony and an ample kitchen with dining area. It includes electric appliances, fitted wardrobes, air conditioning. The building has a lift.</en>
+    <es>Vivienda completamente reformada situado en el centro de Almoradi. El inmueble tiene una superficie de 90 m2 distribuida en 2 dormitorios dobles, salón con balcón, 2 baños y una amplia cocina con salita. El edificio dispone de ascensor y está orientado a mediodía. Además ofrece armarios empotrados, aire acondicionado y un trastero.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC01974.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC01973.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC01975.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC01976.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC01977.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC01978.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC01979.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC01981.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC01983.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC01985.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1921</id>
+  <date>2018-02-19 18:52:57</date>
+  <ref>1 831</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza de la Libertad</location_detail>
+  <beds>4</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>110</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1921/flat/resales/spain/plaza-de-la-libertad/almoradi/</es></url>
+  <desc>
+    <en>This is a spacious apartment with a living area of 110 m2 situated on the first floor in a building close to the square called "Plaza de Libertad" in Almoradi. The property offers 4 bedrooms, 2 bathrooms, kitchen with utility are and a spacious lounge. The building offers a lift and is located close to all facilities.</en>
+    <es>Amplia vivienda con una superficie útil de 110 m2, situado en la primera planta de un edificio en la zona de Plaza de la Libertad. El piso dispone de 4 dormitorios, 2 baños, cocina independiente con galería, amplio salón y balcón. El edificio dispone de ascensor y la vivienda está orientado al levante y norte.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02060.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02061.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02065.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02063.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02059.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02067.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02058.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1925</id>
+  <date>2018-03-12 11:36:09</date>
+  <ref>1 835</ref>
+  <price>115000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>120</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1925/flat/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>This is a superb top-floor apartment located on the fifth floor in a building with lift. The property has a surface of 120 m2 distributed into 3 ample bedrooms, 2 bathrooms, open plan kitchen and a spacious lounge with access to a balcony which offers beautiful views over the fields and mountains. The property offers air conditioning throughout the house, a completely furnished and equipped kitchen, lots of wardrobes and storeroom. The property comes completely furnished and also offers a parking space in the basement of the building and a storeroom on the roof terrace.</en>
+    <es>Amplia vivienda de 120 m2 situado en la última planta de un edificio con ascensor. El inmueble está distribuido en 3 dormitorios, 2 baños, cocina abierta y un espacioso salón con acceso a un amplio balcón con impresionantes vistas a la sierra. Se vende completamente amueblado y ofrece aire acondicionado centralizado por toda la casa, armarios empotrados en todas las habitaciones y en el recibidor, una amplia cocina con barra americana completamente amueblada y equipado con todos los electrodomésticos. Además incluye una plaza de garaje en el semi-sótano y trastero en la terraza cubierta del edificio.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02154.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02163.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02155.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02146.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02150.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02159.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02160.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02165.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02167.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02143.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1926</id>
+  <date>2018-03-15 11:48:48</date>
+  <ref>2 636</ref>
+  <price>329000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Pascual Andreu</location_detail>
+  <beds>7</beds>
+  <baths>4</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>300</built>
+    <plot>200</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1926/villa/resales/spain/colegio-pascual-andreu/almoradi/</es></url>
+  <desc>
+    <en>Exceptional house located in Almoradi close to all services. The house has a living area of 300 m2 distributed in four floors. The ground floor offers a large garage for several vehicles and a spacious storage room. On the first floor it offers a large fully furnished and equipped kitchen with access to a large dining area and living room with a wood burning fire. All rooms of the house face the the raod and large windows give access to several terraces. The house offers a total of 6 large bedrooms with fitted wardrobes, an attic, 4 bathrooms (one of them very spacious with jacuzzi bath tub), barbecue area, large interior patios, central heating, security grills and air conditioning. It is sold fully furnished and equipped with appliances.</en>
+    <es>Casa excepcional situado en Almoradi cerca de todos los servicios. La vivienda tiene una superficie de 300 m2 distribuida en cuatro plantas. La planta baja está destinada a garaje para varios vehículos y un amplio trastero. En la primera planta encontramos una amplia cocina completamente amueblada y equipada con acceso a un amplio comedor y salón de estar con chimenea de leña. Todas las estancias de la vivienda dan al exterior y ofrecen grandes ventanales que dan acceso a varias terrazas. La vivienda ofrece en total 6 amplios dormitorios con armarios empotrados, buhardilla, 4 baños (una de ellos muy amplio con bañera de jacuzzi), zona de barbacoa, amplios patios interiores, calefacción central, rejas de seguridad, aire acondicionado. Se vende completamente amueblado y equipado con electrodomésticos. Construcción con muy buenas calidades.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Barbecue area</feature>
+    <feature>Security grills</feature>
+    <feature>Open fireplace in the lounge</feature>
+    <feature>Central heating</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02093.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02094.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02095.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02092.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02122.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02106.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02111.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02112.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02120.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02119.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1930</id>
+  <date>2018-03-26 11:58:57</date>
+  <ref>1 836</ref>
+  <price>129000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Penthouse
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>El Bañet</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1930/penthouse/resales/spain/el-banet/almoradi/</es></url>
+  <desc>
+    <en>Penthouse with a surface of 90 m2 consisting of 3 bedrooms, 2 bathrooms, lounge and a fully equipped separate kitchen. The property offers a direct access to a 30 m2 terrace and comes partly furnished and equipped with electric appliances. It also benefits of a parking space and storage room.</en>
+    <es>Ático de 90 m2 con una amplia terraza 30 m2. La vivienda dispone de 3 dormitorios, 2 baños, salón comedor con acceso directo a la terraza, amplia cocina amueblada y equipada con electrodomésticos. El inmueble se vende parcialmente amueblado y el precio incluye una plaza de garaje y trastero.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02238.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02239.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02244.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02241.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02242.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02243.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02236.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1931</id>
+  <date>2018-04-03 18:57:01</date>
+  <ref>4 721</ref>
+  <price>156000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Formentera</town>
+  <province>Alicante</province>
+  <location_detail>Formentera</location_detail>
+  <beds>3</beds>
+  <baths>3</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>210</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1931/terraced-house/resales/spain/formentera/formentera/</es></url>
+  <desc>
+    <en>This is a very bright and very spacious Townhouse located in Formentera del Segura. It offers a living area of 210 m2 and is distributed into 3 floor. The ground floor offers an ample garage with space for several cars. On the first floor it benefits of a large living room with access to a balcony, kitchen with utility area and 1 bathroom. On the next floor you will find 3 double bedrooms with fitted wardrobes, 2 bathrooms and access to another terrace.</en>
+    <es>Amplio Bungalow muy soleado con una superficie de 210 m2 de vivienda. Dispone en planta sótano de amplio garaje y zona de ocio. En la primera planta ofrece una amplia cocina con galería y patio, 1 baño y un amplio salón con balcón. En la segunda planta dispone de 3 amplios dormitorios con 2 baños. La vivienda está orientado a mediodía y se encuentra en perfectas condiciones.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>South facing</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02392.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02378.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02376.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02384.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02365.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02383.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02380.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02362.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02370.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02374.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1935</id>
+  <date>2018-09-25 12:10:47</date>
+  <ref>4 722</ref>
+  <price>49000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Algorfa</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>60</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1935/apartment/resales/spain/centro/algorfa/</es></url>
+  <desc>
+    <en>This is a nicely presented apartment in perfect conditions and ready to be moved in. The property offers a surface of 60 m2 divided into 2 bedrooms, 1 bathroom, open-plan kitchen and a spacious lounge. It benefits of a good sized balcony with utility area, fitted wardrobes, full installation of air conditioning and heating, communal pool area with dressing rooms, ample sun terraces and a gym. The property comes completely furnished and equipped with electric appliances. It is located in the in the village of Algorfa close to all services.</en>
+    <es>Bonito apartamento en perfecto estado situado en el municipio de Algorfa cerca de todos los servicios. Dispone de una superficie de 60 m2 distribuida en 2 dormitorios con armarios empotrados y forrados, 1 baño, salón, cocina abierta y completamente amueblada y un amplio balcón con vistas a la sierra de Callosa. La vivienda se vende completamente amueblado y ofrece bonitas zonas comunitarias con piscina, duchas, terraza para tomar el sol y un pequeño gimnasio. Además tiene las instalaciones completas de aire acondicionado y calefacción.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Furnished</feature>
+    <feature>Central heating</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02424.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02421.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02432.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02425.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02438.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02422.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02436.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02449.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02451.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02455.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1936</id>
+  <date>2018-04-06 18:55:14</date>
+  <ref>4 723</ref>
+  <price>54000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Algorfa</town>
+  <province>Alicante</province>
+  <location_detail>Algorfa</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>60</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1936/apartment/resales/spain/algorfa/algorfa/</es></url>
+  <desc>
+    <en>This is a nicely presented apartment in perfect conditions and ready to be moved in. The property offers a surface of 60 m2 divided into 2 bedrooms, 1 bathroom, open-plan kitchen and a spacious lounge. It benefits of a good sized balcony with utility area, fitted wardrobes, full installation of air conditioning and heating, communal pool area with dressing rooms, ample sun terraces and a gym. The selling price includes a parking space and storage in the basement of the buildig. It is located in the village of Algorfa close to all services.</en>
+    <es>Bonito apartamento en perfecto estado situado en el municipio de Algorfa cerca de todos los servicios. Dispone de una superficie de 60 m2 distribuida en 2 dormitorios con armarios empotrados y forrados, 1 baño, salón, cocina abierta y completamente amueblada y un amplio balcón con vistas a la sierra de Callosa. La vivienda ofrece bonitas zonas comunitarias con piscina, duchas, terraza para tomar el sol y un pequeño gimnasio. Además tiene las instalaciones completas de aire acondicionado y calefacción. El precio incluye plaza de garaje y trastero.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Storage</feature>
+    <feature>Parking space</feature>
+    <feature>Central heating</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02444.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02443.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02440.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02442.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02441.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02445.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02448.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02449_1.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02451_1.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02452.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1937</id>
+  <date>2018-04-10 18:51:32</date>
+  <ref>1 839</ref>
+  <price>85000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>95</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1937/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <es>Piso situado cerca de la Plaza de la "U" con una superficie de 95 m2 distribuida en 3 dormitorios, 2 baños, salón de 22 m2 y cocina independiente con galería. La vivienda se encuentra en muy buen estado y ofrece aire acondicionado en el salón, puertas y cocina lacados en blanco, chimenea de cassette en el salón, armarios empotrados, descalcificador y osmosis y iluminación de led en toda la vivienda. Además se vende parcialmente amueblado y el precio incluye una plaza de garaje de 9.90 m2 y un trastero en la terraza cubierta del edificio.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/20171230_170614.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/20171027_093243.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG20171227WA0028.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG20171227WA0017.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/20171224_155051.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/20171230_022919.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/20171230_154844.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/20171230_170220.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG20171227WA00161.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG20171227WA0029.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1938</id>
+  <date>2018-05-04 12:43:58</date>
+  <ref>4 724</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Rafal</town>
+  <province>Alicante</province>
+  <location_detail>Rafal</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1938/flat/resales/spain/rafal/rafal/</es></url>
+  <desc>
+    <en>Apartment located in Rafal consisting of 3 bedooms, 2 bathroom, ample lounge and kitchen with utility area and patio. The property offers pre-intsllation por air conditioning, fitted wardrobes and comes partly furnished. In the price included is a storage room and parking space in the basement of the building. The building has a lift and communal pool.</en>
+    <es>Vivienda distribuida en 3 dormitorios, 2 baños, amplio salón y cocina con galería. También dispone de un patio, preinstalación de aire acondicionado, rejas de seguridad, trastero y plaza de garaje.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC_0022_1.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC_0028.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC_0029_1.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC_0030.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC_0032_2.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC_0026_1.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC_0021_1.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC_0042.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC_0027.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC_0037.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1941</id>
+  <date>2018-09-25 12:25:31</date>
+  <ref>2 637</ref>
+  <price>415000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Loma de la Juliana</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>160</built>
+    <plot>1000</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1941/villa/resales/spain/loma-de-la-juliana/almoradi/</es></url>
+  <desc>
+    <en>This is a factastic Chalet located in the prestigious urbasitation called "Loma de la Juliana" located near to the golf course "La Finca" in Algorfa. The house offers a living area of 160 m2 distributed in 3 large bedrooms, 2 bathrooms, living room, spacious kitchen with pantry, dressing room and two additional rooms used as offices. All the rooms are on the ground floor. The lounge benefits of large windows with access to a terrace with stunning views and gives access to the garden areas with an outdoor kitchen, toilet and pool area. The Villa is fully furnished and equipped with high-end appliances. It also offers many extras such as alarm, radiators, security grills, pre-installation of air conditioning, porch, fitted wardrobes etc ... The property is built on a plot of 1,000 m2.</en>
+    <es>Este hermoso Chalet está ubicado en la prestigiosa urbanización "Loma de la Juliana" de Almoradi cerca del campo de golf "La Finca" de Algorfa. La vivienda ofrece una superficie de 160 m2 distribuida en 3 amplios dormitorios, 2 baños, salón, espaciosa cocina con despensa, vestidor y dos despachos. Todas las estancias están en planta. El salón ofrece grandes ventanales con acceso a una terraza con impresionantes vistas que da acceso a las zonas de jardín que beneficiar de una cocina exterior, aseo y zona de piscina. La Chalet está completamente amueblado y equipado con electrodomésticos de alta gama. Además ofrece muchas extras como alarma, radiadores, rejas de seguridad, pre-instalación de aire acondicionado, porche, pre-instalación de aire acondicionado, armarios empotrados etc... El chalet está construido sobre una parcela de 1.000 m2.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Private Pool</feature>
+    <feature>Barbecue area</feature>
+    <feature>Security grills</feature>
+    <feature>Pantry</feature>
+    <feature>Dressing room</feature>
+    <feature>Central heating</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/19.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/16.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/1_1.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/12.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/17.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/11.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/14.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/4_1.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/7_1.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/5_1.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1943</id>
+  <date>2018-05-17 13:02:38</date>
+  <ref>1 841</ref>
+  <price>67000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza Juan Carlos I</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>90</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1943/flat/resales/spain/plaza-juan-carlos-i/almoradi/</es></url>
+  <desc>
+    <en>This is a bright and spacious 3 bedroom apartment located in Almoradi close to all services. The property has a surface of 90 m2 divided into 3 bedrooms, two bathrooms and an ample lounge with an open plan kitchen. All rooms offer views over a park which makes it a very bright and airy property. It also offers a storage room on the roof of the building.</en>
+    <es>Luminoso piso situado en Plaza Juan Carlos I con vistas al parque y cerca de todos los servicios. La vivienda se encuentra en la tercera planta del edifico con ascensor y todas las estancias dan al exterior. Tiene una superficie de 90 m2 distribuida en 3 dormitorios, 2 baños y amplio salón con cocina americana y balcón. Dispone de un trastero en la terraza cubierta del edificio.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180517_100609.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180517_100459.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180517_100633.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180514_082527.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180514_082640.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180514_095504.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180514_082810.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180517_100651.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180517_100708.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_20180517_100818.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1944</id>
+  <date>2018-05-18 19:15:06</date>
+  <ref>1 842</ref>
+  <price>75000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Plaza de la Libertad</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>100</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1944/flat/resales/spain/plaza-de-la-libertad/almoradi/</es></url>
+  <desc>
+    <en>This 3 bedroom flat is located close to all services in Almoradi. It offers a living area of 100 m2 divided into 3 bedrooms, 2 bathroom, ample kitchen with utility area, lounge with access to a balcony with views over the square. It also offers a parking space in the basement of the building, storage, fitted wardrobes and air conditioning.</en>
+    <es>Piso en primera planta situado en edifico en zona de Plaza de la Libertad en Almoradi. La vivienda tiene una superficie de 100 m2 y ofrece de una amplia cocina independiente con galería, salón con acceso a un balcón, 3 dormitorios con armarios empotrados y 2 baños completos. Además dispone de plaza de garaje en el sótano del edificio y de un trastero, instalación de aire acondicionado y ascensor. Orientado a mediodía.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02667.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02666.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02669.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02672.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02675.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02684.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02683.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02682.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02677.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02679.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1955</id>
+  <date>2018-07-12 17:11:02</date>
+  <ref>2 639</ref>
+  <price>152500</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Villa
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>El Bañet</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>110</built>
+    <plot>200</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1955/villa/resales/spain/el-banet/almoradi/</es></url>
+  <desc>
+    <en>The house is equipped with awnings, it has a covered wooden terrace and a nice garden. There is a parking inside the plot and security bars throughout the house. The house comes semi-furnished, has appliances and air conditioning in one bedroom. The interior is very bright and spacious with a gas fireplace. It has a large community pool.</en>
+    <es>La casa esta equipada con toldos, tiene terraza cubierta de madera y un bonito jardín. Hay un parking en el interior de la parcela y rejas de seguridad por toda la casa. La casa viene semiamueblada, tiene electrodomésticos y aire acondicionado en un dormitorio. El interior es muy luminoso y espacioso con una chimenea de gas. Tiene piscina comunitaria de gran tamaño.</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Furnished</feature>
+    <feature>Security grills</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03112.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03100.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03101.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03099.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03105.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03098.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03104.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03073.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03074.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03075.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1956</id>
+  <date>2018-09-25 12:13:30</date>
+  <ref>1 852</ref>
+  <price>52900</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>79</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1956/apartment/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>This is a spacious and nicely presented two-bedroom apartment located in Almoradi close to all services. The property has a surface of 79 m2 and offers 2 bedrooms, 1 family bathroom, lounge and a large glazed balcony. It is equipped with air conditioning in the master bedroom and lounge. It some partly furnished and equipped with electric appliances. The building offers a lift and communal pool and the apartment is in very good condition.</en>
+    <es>Espaciosa vivienda de 2 dormitorios situado en la zona de campo de fútbol en un edificio con ascensor y piscina comunitaria. La vivienda tiene una superficie de 79 m2 distribuida en 2 dormitorios, 1 baño, cocina, salón y terraza acristalada. Dispone de aire acondicionado (frío y calor) en el dormitorios principal y el salón. El inmueble se encuentra en muy buenas condiciones y ofrece una gran terraza acristalada. Se vende parcialmente amueblado y equipado con electrodomésticos.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/IMG_8092.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/IMG_8093.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/IMG_8104.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/IMG_8105.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/IMG_8095.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/IMG_8098.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/IMG_8099.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/IMG_8101.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/IMG_8102.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/IMG_8108.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1959</id>
+  <date>2018-07-06 18:20:40</date>
+  <ref>1 854</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Apartment
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>71</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1959/apartment/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>This is a beautiful apartment located in Almoradi offering two double bedrooms, 1 family bathroom, lounge and open plan kitchen and a large glazed terrace with beautiful views over the countryside. It has a total surface of 71 m2 and comes completely furnish and equipped with electric appliances. The building offers a lift and a communal pool. The property also benefits of a private sun terrace on the roof of the building which offers beautiful views and is the perfect place for sun bathing.</en>
+    <es>Amplia vivienda con bonitas vistas y solarium privado. El inmueble cuenta con una superficie de 71 m2 distribuida en 2 dormitorios, 1 baño, amplio salón comedor con cocina abierta y una amplia terraza acristalada con vistas. La vivienda se encuentra en perfectas condiciones y se vende completamente amueblado y equipado con electrodomésticos. El edificio ofrece piscina comunitaria y ascensor. El solarium privado situado en la terraza cubierta del edificio 56 m2 y ofrece igualmente impresionantes vistas.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Solarium</feature>
+    <feature>Furnished</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/20180627_195513_resized.jpg</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/20180628_103420_resized.jpg</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/20180628_103512_resized.jpg</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/20180628_103815_resized.jpg</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/20180628_103946_resized.jpg</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/20180628_104051_resized.jpg</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/20180628_140704_resized.jpg</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/20180628_141037_resized.jpg</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/20180629_105103_resized.jpg</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/20180629_105159_resized.jpg</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1960</id>
+  <date>2018-07-13 13:24:01</date>
+  <ref>4 728</ref>
+  <price>75000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Algorfa</town>
+  <province>Alicante</province>
+  <location_detail>Urbanización Montemar</location_detail>
+  <beds>2</beds>
+  <baths>1</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>55</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1960/terraced-house/resales/spain/urbanizacion-montemar/algorfa/</es></url>
+  <desc>
+    <en>This is a beautiful Bungalow located in Algorfa in a closed Complex with communal pool, tennis court and parking. The Bungalow offers 2 double bedrooms, 1 family bathroom, lounge and open plan kitchen. It also offers a front and back terrace and a private sun terrace of 40 m2 on the roof of the Bungalow. The property is completely furnished and equipped and benefits of off-road parking and a large underbuilt used as storage.</en>
+    <es>Bonito Bungalow en planta baja con solarium privado de 40 m2 en la terraza cubierta. La vivienda tiene una superficie de 55 m2 distribuida en 2 dormitorios dobles, 1 baño con bañera, salón y cocina abierta. Además dispone de una galería, 2 terrazas, parking en la parcela, trastero y un amplio solarium de 40 m2. La vivienda se vende completamente amueblada y equipada con electrodomésticos y está ubicada en un complejo cerrado con piscina comunitaria, parking y pista de tenis.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Community pool</feature>
+    <feature>Solarium</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>Security grills</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03286.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03310.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03309.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03285.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03289.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03291.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03292.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03297.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03299.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03302.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1963</id>
+  <date>2018-07-24 17:38:19</date>
+  <ref>4 730</ref>
+  <price>123000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Terraced House
+  </type>
+  <town>Daya Nueva</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>200</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1963/terraced-house/resales/spain/centro/daya-nueva/</es></url>
+  <desc>
+    <en>This is a spacious and bright town house located in Daya Nueva close to all services. It offers a total surface of 200 m2 distributed into 3 ample bedrooms, lounge with a fire place, 2 bathrooms and a separate kitchen with utility area. From the kitchen you get access to a lovely bright patio and on the ground floor you find a large garage with sufficient space for two cars. The property also offers air conditioning and fitted wardrobes.</en>
+    <es>Bonito y luminoso Bungalow adosado situado en Daya Nueva cerca de todos los servicios. La vivienda tiene una superficie de 200 m2 y ofrece 3 amplios dormitorios, 2 baños, cocina independiente con galería y patio interior, salón con chimenea de leña y cochera en planta baja que ofrece espacio para dos vehículos. El Bungalow dispone de aire acondicionado y está orientado al levante.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Open fireplace in the lounge</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03361.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03355.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03329.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03351.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03335.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03336.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03337.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03338.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03340.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03342.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1964</id>
+  <date>2018-07-19 12:41:53</date>
+  <ref>1 855</ref>
+  <price>60000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Centro</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>100</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1964/flat/resales/spain/centro/almoradi/</es></url>
+  <desc>
+    <en>Apartment located on the first floor in a building with a lift. The property is located to the town center and offers a surface of 100 m2 divided into 2 rooms, lounge and kitchen with utility area. It is also ideal to be used as an office.</en>
+    <es>Piso situado en primera planta en un edificio situado en el centro de Almoradi. El edificio dispone de ascensor. La vivienda tiene una superficie de 100 m2 distribuida en dos habitaciones, 2 baños, salón y cocina independiente. También ideal para oficinas dado que ya está acondicionado para negocio. Dispone de trastero en la terraza.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03327.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03328.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1965</id>
+  <date>2018-08-30 10:38:38</date>
+  <ref>1 856</ref>
+  <price>89000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>110</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1965/flat/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>This is a spacious 3 bedroom apartment located on the second floor. It offers a total surface of 110 m2 consisting of 3 ample bedrooms, 2 bathrooms, kitchen with utility area and lounge. It benefits of a large balcony with nice views over a park and mountains. The price includes a parking space in the basement of the building and a storage room. It also offers air condition and fitted wardrobes. Located close to all services.</en>
+    <es>Amplia vivienda de 110 m2 en segunda planta situado cerca del campo de fútbol de Almoradi. La vivienda ofrece 3 amplios dormitorios, 2 baños, cocina independiente con galería y salón. Tiene una amplio balcón que ofrece bonitas visitas a un parque y montañas. El precio incluye una plaza de garaje en el sótano del edificio y trastero. Además ofrece aire acondicionado y armarios empotrados.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>Parking space</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03314.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03315.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03320.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03317.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03318.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03319.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03321.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03322.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03325.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1967</id>
+  <date>2018-09-25 12:13:55</date>
+  <ref>1 857</ref>
+  <price>63950</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Manuel de Torres</location_detail>
+  <beds>2</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>72</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1967/flat/resales/spain/colegio-manuel-de-torres/almoradi/</es></url>
+  <desc>
+    <en>This is a nicely presented and fully furnished two bedroom apartment located in Almoradí close to all services. It offers a living area of 72 m2 divided into 2 double bedrooms, 2 full bathrooms, kitchen with utility area, lounge and balcony. The property benefits of an ample living space and offers air condition, fitted wardrobes, completely equipped kitchen, storage room and communal pool on the roof of the building.</en>
+    <es>Apartamento en muy buenas condiciones situado en la tercera planta en un edificio con ascensor. La vivienda ofrece 2 dormitorios dobles, 2 baños, cocina independiente con galería acristalada, amplio salón y balcón. Se vende completamente amueblada y equipada con electrodomésticos. Además ofrece armarios empotrados, aire acondicionado, trastero y piscina comunitaria.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03380.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03375.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03373.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03376.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02220_1.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03389.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/P9220085.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03378.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03383.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03387.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1968</id>
+  <date>2018-08-20 09:38:00</date>
+  <ref>1 367</ref>
+  <price>99900</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Campo de fútbol</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>101</built>
+    <plot>121</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1968/flat/resales/spain/campo-de-futbol/almoradi/</es></url>
+  <desc>
+    <en>Large floor of 101m2 on the second floor. The house has 3 bedrooms, 2 bathrooms, ample living room of 30 m2 and independent kitchen. The Price includes a parking space and a storageroom in the same building. The house make corners and is located close to all the services of the town.</en>
+    <es>Amplio piso de 101 m2 en segunda planta. La vivienda consta de 3 dormitorios, 2 baños, salón amplio de 30 m2 y cocina independiente. El precio incluye una plaza de garaje y un trastero en el mismo edificio. La vivienda hace esquina y se encuentra situada cerca de todos los servicios del municipio.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Storage</feature>
+    <feature>South facing</feature>
+    <feature>Pre-installation of air conditioning</feature>
+    <feature>Parking space</feature>
+    <feature>Central heating</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02638.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02627.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02631.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02617.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02609.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02610.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02611.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02614.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02619.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02621.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1969</id>
+  <date>2018-08-17 12:43:03</date>
+  <ref>2 638</ref>
+  <price>109000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Town House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Puente de Don Pedro</location_detail>
+  <beds>3</beds>
+  <baths>1</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>269</built>
+    <plot>433</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1969/house/resales/spain/puente-de-don-pedro/almoradi/</es></url>
+  <desc>
+    <en>Magnificient house in Almoradi. It has a 433m2 area with a solárium and large patios. The house has 3 doubles bedrooms, 1 bathroom and a independent kitchen.</en>
+    <es>Magnífica casa en Almoradí. Dispone de una parcela de 433m2 dotada de zona de barbacoa solárium y amplios patios. La casa dispone de 3 dormitorios dobles, un baño y una cocina independiente.</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>South facing</feature>
+    <feature>Barbecue area</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC02647.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC02639.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC02655.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC02642.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC02646.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC02648.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC02649.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC02650.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC02653.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC02652.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1970</id>
+  <date>2018-08-22 10:36:34</date>
+  <ref>1 858</ref>
+  <price>120000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Manue de Torres</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>40</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1970/flat/resales/spain/colegio-manue-de-torres/almoradi/</es></url>
+  <desc>
+    <en>Spacious nex penthouse with a private terrace of 40 m2 and a parking space. The apartament has 3 bedrooms, 2 bathrooms and a independent kitchen with galery.</en>
+    <es>Amplio ático nuevo a estrenar con una terraza privada de 40 m2 y con plaza de garaje. La vivienda dispone de 3 dormitorios, 2 baños, cocina independiente con galería, armarios empotrados, piscina comunitaria y zonas comunes con jacuzzi y barbacoa.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Furnished</feature>
+    <feature>Barbecue area</feature>
+    <feature>Garage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/P6040020_1.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/P6040029.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/P6040024.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/P6040021.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/P6040022.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/P6040023.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/P6040025.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/P6040026.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/P6040027.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/P6040028.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1971</id>
+  <date>2018-08-23 13:18:20</date>
+  <ref>4 731</ref>
+  <price>79000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Comercial unit
+  </type>
+  <town>Dolores</town>
+  <province>Alicante</province>
+  <location_detail>Dolores</location_detail>
+  <beds>0</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>0</built>
+    <plot>70</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1971/comercial-unit/resales/spain/dolores/dolores/</es></url>
+  <desc>
+    <es>Local de 70 m2, en el centro de Dolores, en la calle del mercadillo. Dicho local está dotado de licencia de restaurante y heladería, consta de 2 baños, uno de ellos de minusválidos. El local esta dotado de una barra, un extractor de humos, aire acondicionado y puertas y ventanas protegidas con rejas.</es>
+  </desc>
+  <features>
+    <feature>Air conditioning</feature>
+    <feature>Security grills</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03402.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03397.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03395.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03396.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03400.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1976</id>
+  <date>2018-09-25 12:12:15</date>
+  <ref>1 860</ref>
+  <price>86500</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Pascual Andreu</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>89</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1976/flat/resales/spain/colegio-pascual-andreu/almoradi/</es></url>
+  <desc>
+    <en>Very modern apartment block of only 8 housing, large kitchen with glazed gallery, large living room, balcony. All exterior, wooden floor, large windows, parking space, storage room on covered terrace, lighting with portholes and hot water with solar panels.</en>
+    <es>Piso muy moderno en bloque de solo 8 vivienda, cocina amplia con galería acristalada, amplio salón, balcón. Todo exterior, suelo tarima, amplias ventanas, plaza de garaje, trastero en terraza cubierta, iluminación con ojos de buey y agua caliente con placas solares.</es>
+  </desc>
+  <features>
+    <feature>Solarium</feature>
+    <feature>Furnished</feature>
+    <feature>Storage</feature>
+    <feature>Parking space</feature>
+    <feature>Central heating</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03510.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03511.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03503.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03504.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03507.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03512.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03513.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03514.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03515.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03516.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1977</id>
+  <date>2018-09-06 13:30:19</date>
+  <ref>2 642</ref>
+  <price>127500</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Town House
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Puente de Don Pedro</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>1</pool>
+  <surface_area>
+    <built>120</built>
+    <plot>45</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1977/house/resales/spain/puente-de-don-pedro/almoradi/</es></url>
+  <desc>
+    <en>Renovated house, with double insulation windows, fitted wardrobes, living room, open kitchen with living room, 3 double bedrooms, 2 renovated bathrooms, private pool, garden with views and bar, covered terrace, fully furnished house and with beautiful views.</en>
+    <es>Casa reformada, con ventanas dobles de aislamiento, armarios empotrados, salón, cocina abierta con salita, 3 dormitorios dobles, 2 baños reformados, piscina privada, jardín con vistas y con barra, terraza cubierta, casa completamente amueblada y con bonitas vistas.</es>
+  </desc>
+  <features>
+    <feature>Fitted wardrobes</feature>
+    <feature>Furnished</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03468.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03429.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03430.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03432.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03438.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03439.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03441.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03436.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03443.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03444.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1978</id>
+  <date>2018-09-13 11:16:03</date>
+  <ref>4 732</ref>
+  <price>120000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Town House
+  </type>
+  <town>Benejuzar</town>
+  <province>Alicante</province>
+  <location_detail>Benejuzar</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>108</built>
+    <plot>38</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1978/house/resales/spain/benejuzar/benejuzar/</es></url>
+  <desc>
+    <en>Large house on the ground floor with three bedrooms, a large bathroom and toilet in the patio. South-facing. Large kitchen with laundry room, dining room and living room, small garage, two storage rooms and a fantastic wood stove.</en>
+    <es>Amplia casa en planta de tres dormitorios, un baño grande y aseo en el patio. Buena orientación. Gran cocina con lavadero, comedor y salita, cochera pequeña, dos trasteros y una fantástica cocina de leña.</es>
+  </desc>
+  <features>
+    <feature>Storage</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03572.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03556.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03557.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03558.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03559.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03560.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03562.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03563.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03568.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03565.JPG</url>
+    </image>
+  </images>
+</property>
+<property>
+  <id>1979</id>
+  <date>2018-09-18 13:19:16</date>
+  <ref>1 861</ref>
+  <price>65000</price>
+  <currency>EUR</currency>
+  <price_freq>sale</price_freq>
+  <type>
+    Flat
+  </type>
+  <town>Almoradí</town>
+  <province>Alicante</province>
+  <location_detail>Colegio Canales y Martinez</location_detail>
+  <beds>3</beds>
+  <baths>2</baths>
+  <pool>0</pool>
+  <surface_area>
+    <built>100</built>
+    <plot>0</plot>
+  </surface_area>
+  <url><es>http://bernadiego.com/property/1979/flat/resales/spain/colegio-canales-y-martinez/almoradi/</es></url>
+  <desc>
+    <en>Spacious apartment on the second floor in a building with elevator, oriented at noon. It has three double bedrooms, 2 bathrooms, large living room, communitary swimming pool, independent kitchen with gallery and big balcony. Fully furnished and equipped.</en>
+    <es>Amplio piso en segunda planta en edificio con ascensor, orientado a mediodia. Dispone de tres dormitorios dobles, 2 baños , amplio salón, piscina comunitaria, cocina independiente con galeria y espacioso balcón. Completamente amueblado y equipado.</es>
+  </desc>
+  <features>
+    <feature>Balcony</feature>
+    <feature>Community pool</feature>
+    <feature>Solarium</feature>
+    <feature>Independent kitchen</feature>
+    <feature>Furnished</feature>
+    <feature>South facing</feature>
+  </features>
+  <images>
+    <image id="1">
+      <url>http://bernadiego.com/media/images/properties/DSC03606.JPG</url>
+    </image>
+    <image id="2">
+      <url>http://bernadiego.com/media/images/properties/DSC03608.JPG</url>
+    </image>
+    <image id="3">
+      <url>http://bernadiego.com/media/images/properties/DSC03624.JPG</url>
+    </image>
+    <image id="4">
+      <url>http://bernadiego.com/media/images/properties/DSC03622.JPG</url>
+    </image>
+    <image id="5">
+      <url>http://bernadiego.com/media/images/properties/DSC03613.JPG</url>
+    </image>
+    <image id="6">
+      <url>http://bernadiego.com/media/images/properties/DSC03620.JPG</url>
+    </image>
+    <image id="7">
+      <url>http://bernadiego.com/media/images/properties/DSC03616.JPG</url>
+    </image>
+    <image id="8">
+      <url>http://bernadiego.com/media/images/properties/DSC03614.JPG</url>
+    </image>
+    <image id="9">
+      <url>http://bernadiego.com/media/images/properties/DSC03626.JPG</url>
+    </image>
+    <image id="10">
+      <url>http://bernadiego.com/media/images/properties/DSC03617.JPG</url>
+    </image>
+  </images>
+</property>
+
+<property>
+<id>1980</id>
+<date>2018-10-01 13:34:21</date>
+<ref>1 862</ref>
+<price>75000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type>
+Flat
+</type>
+<town>Almoradí</town>
+<province>Alicante</province>
+<location_detail>Centro</location_detail>
+<beds>4</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>130</built>
+<plot>0</plot>
+</surface_area>
+<url><es>
+http://bernadiego.com/property/1980/flat/resales/spain/centro/almoradi/</es>
+</url>
+<desc>
+<en>
+
+
+ This is a spacious ground floor apartment with its own entrace from the street. It has a surface of 130 m2 living space plus 12 m2 used as patio and garrage. The property offers 4 bedrooms, 1 full bathroon, 1 cloak room, kitchen and lounge. It is located in a central area of Almoradi .
+
+</en>
+<es>
+
+
+ Vivienda en planta baja con entrada independiente y cochera. La vivienda tiene una superficie de 130 m2 + 12 m2 destinados a patio y cochera. Dispone de 4 dormitorios, salón, cocina independiente, amplio baño y otro aseo. Está orientado a mediodía y y dispone de rejas de seguridad en todas las ventanas.
+
+</es>
+</desc>
+<features>
+<feature>Security grills</feature>
+<feature>Independent kitchen</feature>
+<feature>Garage</feature>
+</features>
+<images>
+<image id="1">
+<url>
+http://bernadiego.com/media/images/properties/DSC03824.JPG
+</url>
+</image>
+<image id="2">
+<url>
+http://bernadiego.com/media/images/properties/DSC03840.JPG
+</url>
+</image>
+<image id="3">
+<url>
+http://bernadiego.com/media/images/properties/DSC03836.JPG
+</url>
+</image>
+<image id="4">
+<url>
+http://bernadiego.com/media/images/properties/DSC03822.JPG
+</url>
+</image>
+<image id="5">
+<url>
+http://bernadiego.com/media/images/properties/DSC03826.JPG
+</url>
+</image>
+<image id="6">
+<url>
+http://bernadiego.com/media/images/properties/DSC03828.JPG
+</url>
+</image>
+<image id="7">
+<url>
+http://bernadiego.com/media/images/properties/DSC03830.JPG
+</url>
+</image>
+<image id="8">
+<url>
+http://bernadiego.com/media/images/properties/DSC03832.JPG
+</url>
+</image>
+<image id="9">
+<url>
+http://bernadiego.com/media/images/properties/DSC03834.JPG
+</url>
+</image>
+<image id="10">
+<url>
+http://bernadiego.com/media/images/properties/DSC03844.JPG
+</url>
+</image>
+</images>
+</property>
+<property>
+<id>1981</id>
+<date>2018-10-04 09:31:02</date>
+<ref>4 733</ref>
+<price>78500</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type>
+Apartment
+</type>
+<town>Algorfa</town>
+<province>Alicante</province>
+<location_detail>Carretera</location_detail>
+<beds>2</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>49</built>
+<plot>0</plot>
+</surface_area>
+<url><es>
+http://bernadiego.com/property/1981/apartment/resales/spain/carretera/algorfa/
+</es>
+</url>
+<desc>
+<en>
+ Located in a peaceful, tranquil, friendly urbanisation that is superbly maintained and loved, this fabulous first floor with solarium apartment has everything for an ideal home or holiday home.
+ 
+ There are two large bedrooms, the master with fitted wardrobe, two chest of drawers and an excellent double bed. The second bedroom with two single beds. Both rooms have electric blankets for the winter months. The kitchen is fully equipped with modern units. This fully furnished apartment is very reasonably priced for the high standards. The community has free TV, and there is also free wifi in the beautifully kept large pool and communal area. The pool is gated and is kept to a very high standard with tropical trees, plants, Jacuzzi and seating, a stylish statue trickles water down into the pool. There is a small road into the community with all other entrances gated. There is a community car park.
+ 
+ The property benefits of stunning mountain and sea views from the roof/solarium. There is also monitored CCTV at both entrance and exit to the urbanisation. There are bars and restaurants, a nice mall with a selection of shops and more bars and restaurants all within easy walking distance. There are supermarkets within a five minute drive and also the picturesque village of Algorfa. La Finca Golf Course is on the doorstep and the Blue Flag Beaches of Guardamar are only a ten minute drive away.
+
+</en>
+<es>
+
+ Ubicado en una urbanización pacífica, tranquila y amigable que está magníficamente mantenida, este fabuloso apartamento en el primer piso con solárium tiene todo para una casa de residencia habitual o de vacaciones. Dispone 2 dormitorios grandes, el dormitorio principal con armario empotrado, dos cómodas, excelente cama doble con manta eléctrica para el invierno. La cocina está totalmente equipada con unidades modernas. La comunidad tiene TV gratis, y también hay wifi gratuito en la piscina y zona comunitaria. La piscina está cerrada y se mantiene muy bien con árboles tropicales, plantas, jacuzzi y asientos, una elegante estatua gotea agua hacia la piscina. Hay un pequeño camino hacia la comunidad con todas las demás entradas cerradas. Hay un estacionamiento comunitario. Hay bares y restaurantes, un bonito centro comercial con una selección de tiendas y más bares y restaurantes a poca distancia a pie. Hay supermercados a cinco minutos en coche y también el pintoresco pueblo de Algorfa. El campo de golf de La Finca está a las puertas y las playas de Bandera Azul de Guardamar están a solo 10 minutos en coche.
+
+</es>
+</desc>
+<features>
+<feature>Air conditioning</feature>
+<feature>Balcony</feature>
+<feature>Community pool</feature>
+<feature>Solarium</feature>
+<feature>Furnished</feature>
+</features>
+<images>
+<image id="1">
+<url>
+http://bernadiego.com/media/images/properties/DSC03665.JPG
+</url>
+</image>
+<image id="2">
+<url>
+http://bernadiego.com/media/images/properties/DSC03663.JPG
+</url>
+</image>
+<image id="3">
+<url>
+http://bernadiego.com/media/images/properties/DSC03670.JPG
+</url>
+</image>
+<image id="4">
+<url>
+http://bernadiego.com/media/images/properties/DSC03671.JPG
+</url>
+</image>
+<image id="5">
+<url>
+http://bernadiego.com/media/images/properties/DSC03668.JPG
+</url>
+</image>
+<image id="6">
+<url>
+http://bernadiego.com/media/images/properties/DSC03676.JPG
+</url>
+</image>
+<image id="7">
+<url>
+http://bernadiego.com/media/images/properties/DSC03677.JPG
+</url>
+</image>
+<image id="8">
+<url>
+http://bernadiego.com/media/images/properties/DSC03666.JPG
+</url>
+</image>
+<image id="9">
+<url>
+http://bernadiego.com/media/images/properties/DSC03675.JPG
+</url>
+</image>
+<image id="10">
+<url>
+http://bernadiego.com/media/images/properties/DSC03680.JPG
+</url>
+</image>
+</images>
+</property>
+<property>
+<id>1982</id>
+<date>2018-10-02 13:05:08</date>
+<ref>4 734</ref>
+<price>315000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type>
+Villa
+</type>
+<town>Orihuela</town>
+<province>Alicante</province>
+<location_detail>La Murada</location_detail>
+<beds>2</beds>
+<baths>1</baths>
+<pool>0</pool>
+<surface_area>
+<built>243</built>
+<plot>6335</plot>
+</surface_area>
+<url><es>
+http://bernadiego.com/property/1982/villa/resales/spain/la-murada/orihuela/</es>
+</url>
+<desc>
+<en>
+
+
+ Large villa with 6 tahullas of land, a total of 6,335 square meters, with pool, garden, garage, barbecue, storage room and a large kitchen. The villa is located in the Murada near Albatera.
+
+</en>
+<es>
+
+
+ Gran chalet con 6 tahullas de terreno, un total de 6.335 metros cuadrados, con piscina, jardín, cochera, barbacoa, trastero y una gran cocina independiente. El chalet esta situado en la Murada cerca de Albatera.
+
+</es>
+</desc>
+<features>
+<feature>Barbecue area</feature>
+<feature>Parking space</feature>
+<feature>Private Pool</feature>
+<feature>Independent kitchen</feature>
+<feature>Storage</feature>
+</features>
+<images>
+<image id="1">
+<url>
+http://bernadiego.com/media/images/properties/DSC03714.JPG
+</url>
+</image>
+<image id="2">
+<url>
+http://bernadiego.com/media/images/properties/DSC03712.JPG
+</url>
+</image>
+<image id="3">
+<url>
+http://bernadiego.com/media/images/properties/DSC03708.JPG
+</url>
+</image>
+<image id="4">
+<url>
+http://bernadiego.com/media/images/properties/DSC03728.JPG
+</url>
+</image>
+<image id="5">
+<url>
+http://bernadiego.com/media/images/properties/DSC03703.JPG
+</url>
+</image>
+<image id="6">
+<url>
+http://bernadiego.com/media/images/properties/DSC03727.JPG
+</url>
+</image>
+<image id="7">
+<url>
+http://bernadiego.com/media/images/properties/DSC03704.JPG
+</url>
+</image>
+<image id="8">
+<url>
+http://bernadiego.com/media/images/properties/DSC03706.JPG
+</url>
+</image>
+<image id="9">
+<url>
+http://bernadiego.com/media/images/properties/DSC03707.JPG
+</url>
+</image>
+<image id="10">
+<url>
+http://bernadiego.com/media/images/properties/DSC03710.JPG
+</url>
+</image>
+</images>
+</property>
+<property>
+<id>1983</id>
+<date>2018-10-03 19:29:55</date>
+<ref>4 735</ref>
+<price>750000</price>
+<currency>EUR</currency>
+<price_freq>sale</price_freq>
+<type>
+Villa
+</type>
+<town>Algorfa</town>
+<province>Alicante</province>
+<location_detail>Urbanización Montemar</location_detail>
+<beds>4</beds>
+<baths>4</baths>
+<pool>1</pool>
+<surface_area>
+<built>423</built>
+<plot>1254</plot>
+</surface_area>
+<url><es>
+http://bernadiego.com/property/1983/villa/resales/spain/urbanizacion-montemar/algorfa/</es>
+</url>
+<desc>
+<en>
+
+
+ This spectacular property is built on a plot of 1,254 m2 with a living area of 423 m2, distributed over two floors. The ground floor offers 355 m2 and the first 68 m2. On the ground floor there are 3 large bedrooms, a kitchen with central cooking island, laundry, 3 bathrooms and a spacious living room with large windows and a dining room with bar. The master bedroom has a large en-suite bathroom and dressing room. On the first floor there are 2 large bedrooms, both with dressing room and entrance to a large terrace. The villa was built in 1998 and extended and refurbished in 2006. The construction is of high quality wood with concrete load-bearing walls. It also has many extras such as automatic blinds in all windows, alarm system, porch, fiber optic, etc. There is a nice private pool and a large roofed terrace of 31m2 with barbecue area. Under the terrace you will find a large storage. The house is located in the beautiful and quiet urbanization Montemar de Algorfa, directly next to green routes with its exceptional vegetation. The prestigious "La finca" golf course is only 2 minutes by car and the magnificent beaches of Guardamar del Segura, Torrevieja, Orihuela Costa are only 14 km away.
+
+</en>
+<es>
+
+
+ Esta espectacular propiedad está edificada sobre una parcela de 1.254 m2 con una superficie de 423 m2, distribuida en dos plantas. La planta baja ofrece 355 m2 y la primera 68 m2. En la planta baja encontramos 3 amplios dormitorios, una cocina independiente con isla central, lavadero, 3 baños y un espacioso salón con grandes ventanales y un comedor con barra. El dormitorio principal dispone de un amplio baño en-suite y vestidor. El la primera planta encontramos 2 amplios dormitorios, casa uno con su vestidor y entrada a una amplia terraza. El chalet fue construido en 1998 y ampliado y reformado en 2006. La construcción es de madera de alta calidad con muros de carga de hormigón. Además dispone de muchas extras como persianas automáticas en todas las ventanas, sistema de alarma, porche, fibra óptica etc.,. En la parcela dispone de una bonita piscina privada y una amplia terraza de 31m2 techado con zona de barbacoa. Debajo de la terraza ofrece un amplia almacén. La vivienda se encuentra en la bonita y tranquila urbanización Montemar de Algorfa, directamente a lado de rutas verdes con su excepcional vegetación. El prestigioso campo de golf "La finca" se encuentra a solo 2 Minutos en coche. Las magnificas playas de Guardamar del Segura, Torrevieja, Orihuela Costa se encuentran a sólo 14 km.
+
+</es>
+</desc>
+<features>
+<feature>Air conditioning</feature>
+<feature>Fitted wardrobes</feature>
+<feature>Balcony</feature>
+<feature>Independent kitchen</feature>
+<feature>Storage</feature>
+<feature>South facing</feature>
+<feature>Private Pool</feature>
+<feature>Barbecue area</feature>
+<feature>Security grills</feature>
+<feature>Dressing room</feature>
+</features>
+<images>
+<image id="1">
+<url>
+http://bernadiego.com/media/images/properties/DSC03737.JPG
+</url>
+</image>
+<image id="2">
+<url>
+http://bernadiego.com/media/images/properties/DSC03734.JPG
+</url>
+</image>
+<image id="3">
+<url>
+http://bernadiego.com/media/images/properties/DSC03732.JPG
+</url>
+</image>
+<image id="4">
+<url>
+http://bernadiego.com/media/images/properties/DSC03742.JPG
+</url>
+</image>
+<image id="5">
+<url>
+http://bernadiego.com/media/images/properties/DSC03738.JPG
+</url>
+</image>
+<image id="6">
+<url>
+http://bernadiego.com/media/images/properties/DSC03730.JPG
+</url>
+</image>
+<image id="7">
+<url>
+http://bernadiego.com/media/images/properties/DSC03755.JPG
+</url>
+</image>
+<image id="8">
+<url>
+http://bernadiego.com/media/images/properties/DSC03740.JPG
+</url>
+</image>
+<image id="9">
+<url>
+http://bernadiego.com/media/images/properties/DSC03767.JPG
+</url>
+</image>
+<image id="10">
+<url>
+http://bernadiego.com/media/images/properties/DSC03769.JPG
+</url>
+</image>
+</images>
+</property>
+
+</root>
